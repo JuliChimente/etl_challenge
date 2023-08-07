@@ -1,0 +1,16 @@
+2023-08-07 19:20:22,616 - INFO - Archivo CSV descargado exitosamente.
+2023-08-07 19:20:29,116 - INFO - No se encontraron problemas en el archivo de entrada.
+
+Proceso de carga completado:
+ - Cantidad de filas afectadas: 300
+ - Fecha del proceso: 2023-08-07 19:20:37
+ - Instancia de base de datos: JuliChimente
+ - Cantidad de filas en el CSV: 300
+ - Cantidad de filas en la tabla: 2405
+
+
+Proceso de eliminacion de duplicados completado:
+ - Cantidad de filas duplicadas: 300
+ - Cantidad de filas en la tabla: 1805
+
+2023-08-07 19:20:37,891 - INFO - Proceso ETL completado exitosamente.2023-08-07 19:25:54,413 - INFO - Archivo CSV descargado exitosamente.
